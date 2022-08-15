@@ -1,10 +1,10 @@
-import Header from "./Header";
-import Footer from "./Footer";
+import Navbar from "./components/Navbar/Navbar";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
    <div>
-     <Header />
+     <Navbar />
      
      <h1>Vamos Tu Puedes</h1>
      <Footer />
